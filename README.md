@@ -4,14 +4,13 @@ Building tools that make search and automation faster.
 
 ### What I work on
 - **SEO crawlers** that audit whole sites in minutes
-- **Rank tracking** that is cheap, accurate and honest about what it does not know
 - **Automation** for the boring parts of web work
 
 ### Toolbox
 Python · Node.js · Playwright · Claude Code · REST APIs · WordPress
 
 ### Now
-Shipping an open SEO crawler and learning something new every week.
+Building an SEO crawler and learning something new every week.
 
 ### Stats
 <p>
