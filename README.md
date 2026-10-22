@@ -12,3 +12,12 @@ Python · Node.js · Playwright · Claude Code · REST APIs · WordPress
 
 ### Now
 Shipping an open SEO crawler and learning something new every week.
+
+### Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xtremelabs911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtremelabs911&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=xtremelabs911&theme=tokyonight&hide_border=true" />
+</p>
