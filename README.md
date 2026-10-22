@@ -7,7 +7,7 @@ Building tools that make search and automation faster.
 - **Automation** for the boring parts of web work
 
 ### Toolbox
-Python · Node.js · Playwright · Claude Code · REST APIs · WordPress
+Python · Playwright · Claude Code · REST APIs · WordPress
 
 ### Now
 Building an SEO crawler and learning something new every week.
